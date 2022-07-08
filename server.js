@@ -10,7 +10,7 @@ const app = express();
 const PORT = process.env.PORT || 8080;
 
 const connectionString =
-  "postgres://sqlokxrl:tU6XSVGra7oaORqUxVYznMiTNUnwlxdt@tyke.db.elephantsql.com/sqlokxrl";
+  "postgres://odvdbrrr:p10yRAxTJfqOkZU23llxcKYjeoraYJCE@rogue.db.elephantsql.com/odvdbrrr";
 const client = new Client(connectionString);
 client.connect();
 
